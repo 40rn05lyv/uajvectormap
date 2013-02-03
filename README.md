@@ -1,0 +1,1 @@
+﻿Карти України для JVectorMap (http://jvectormap.com/)
